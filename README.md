@@ -2,10 +2,10 @@
 
 Keyboard is mapped as
 
-1 2 3 4 -> 0, 1, 2 ,3
-q w e r -> 4, 5, 6, 7
-a s d f -> 8, 9, a, b
-z x c v -> c, d, e, f
+1 2 3 4 -> 0, 1, 2 ,3<br>
+q w e r -> 4, 5, 6, 7<br>
+a s d f -> 8, 9, a, b<br>
+z x c v -> c, d, e, f<br>
 
 # Usage: 
 `./main <rom_file> <debug_mode_on_start>`
