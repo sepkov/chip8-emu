@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "chip8_stack.h": "c",
+        "config.h": "c",
+        "__config": "c",
+        "iterator": "c",
+        "__availability": "c",
+        "__locale": "c",
+        "chrono": "c",
+        "ctime": "c",
+        "locale": "c",
+        "algorithm": "c",
+        "stdbool.h": "c",
+        "stdio.h": "c",
+        "chip8_keyboard.h": "c"
+    }
+}
